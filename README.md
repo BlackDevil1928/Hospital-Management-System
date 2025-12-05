@@ -9,7 +9,7 @@ Hospital Management System which is built using java technologies .This Web appl
 <h4>Doctor’s DashBoard</h4>
 <h4>Appointment-Table</h4>
 <h4>Booking Appointment</h4>
-<h4>Choosing Doctor</h4>
+<h4>Choosing Doctor</h4> 
 
 ## Core Functionalities:
 
