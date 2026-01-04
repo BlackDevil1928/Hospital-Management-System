@@ -20,7 +20,7 @@ Hospital Management System which is built using java technologies .This Web appl
 <h4>   Administrative Management:<h4></h4> Supports hospital administrators in overseeing day-to-day activities, managing doctor schedules, generating reports, and organizing hospital resources.
 
 
-# Technologies Used:
+# Technologies Used :
 <h4>JSP (JavaServer Pages):</h4> Provides a dynamic interface for users, offering a more interactive user experience.
 
 <h4>Servlets:</h4> Handles the business logic, enabling data processing and communication between the front end and the database.
